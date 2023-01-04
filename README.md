@@ -12,6 +12,7 @@ link down : https://github.com/Nguyendo727/Tool-Reup/archive/refs/heads/main.zip
 
 -  Sau khi đã giải nén xong mở folder tool vừa giải nén => bật file có tên : Reup.exe => click chuyển sang tab : Reup rell facebook
 - Setting file : Chọn File trên giao diện của tool và chọn xuống
+![image](https://user-images.githubusercontent.com/88383614/210526389-bc4cfad6-71db-43ab-b61f-40bcd69c4ad9.png)
  + List tiêu đề : File này nếu trống thì tiêu đề video reup sẽ là tiêu đề của video khi down xuống
  + hastag : Điền hastag của pages mà của bạn
  + list Account : Điền clone cầm page ( Lưu ý : clone chỉ cầm 1 page mà bạn muốn reups ) . Theo định dạng UID|PASS|2FA của via
