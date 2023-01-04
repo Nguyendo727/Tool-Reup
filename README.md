@@ -1,4 +1,4 @@
-                                                      Hướng dẫn sử dụng tool Reup
+                                      Hướng dẫn sử dụng tool Reup
 
 **1.  Download tool**
  
@@ -26,6 +26,6 @@ link down : https://github.com/Nguyendo727/Tool-Reup/archive/refs/heads/main.zip
 
 **Lưu ý :**  Time start là thời gian bắt đầu reup - time end là time kết thúc reup . Số lượng video đăng 1 ngày là số lượng video mà tool sẽ tiến hành reup - time đăng 1 video sẽ được tính theo : time kết thúc đăng trừ đi time bắt đầu đăng chia đều cho số lượng đăng video của một ngày 
 
-                                      Mọi thắc mắc có thể liên hệ NICOLO để được hỗ trợ và giải đáp chi tiết
+               Mọi thắc mắc có thể liên hệ NICOLO để được hỗ trợ và giải đáp chi tiết
 
 
